@@ -24,7 +24,7 @@ Otter is just ordinary otters. He love to read a book and laugh out lound while 
 * [greenkeeper](https://greenkeeper.io/#pricing)
 * [CircleCI](https://circleci.com/pricing/#build-linux)
 
-### Limit use
+### Limited use
 * [slack](https://slack.com/pricing) : Free if less than 5GB
 * [mailgun](https://www.mailgun.com/pricing) : Free for send 10,000 emails/month
 * [waffle](https://waffle.io/pricing) : Free for public/private, Paid for enterpise.
