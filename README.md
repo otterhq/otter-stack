@@ -1,7 +1,7 @@
 # otter-stack
 
 ## Stack
-![](https://github.com/otterhq/otter-stack/blob/master/img/otter-stack-v1.1.0.png)
+[![](https://github.com/otterhq/otter-stack/blob/master/img/otter-stack-v1.1.0.png)](https://github.com/otterhq/otter-stack/raw/master/img/otter-stack-v1.1.0.png)
 
 ## Pricing
 
