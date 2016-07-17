@@ -16,7 +16,7 @@ Otter is just ordinary otters. He love to read a book and laugh out lound while 
 * Addition Storage : [DigitalOcean](https://www.digitalocean.com/?refcode=6dcfcc2a3392) $0.10/GB per month
 
 ### Free public, paid for private
-* [github](https://github.com/pricing) : $9 per user/month ($25/month for first 5 users)
+* [GitHub](https://github.com/pricing) : $9 per user/month ($25/month for first 5 users)
 
 ### Free public, limit 1 private project
 * [Docker](https://www.docker.com/pricing#/pricing_cloud)
