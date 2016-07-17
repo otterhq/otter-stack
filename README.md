@@ -5,9 +5,13 @@ TODO
 
 ## Pricing
 
-### 
+### Fixed
 * Domain Name : [Namecheap](https://www.namecheap.com/?aff=99054)
 * Cloud Server : [DigitalOcean](https://www.digitalocean.com/?refcode=6dcfcc2a3392) : $5/mo 512MBMemory, 1 Core, 20GBSSD Disk, 1TBTransfer
+ * Build Sever : 1
+ * Dev Server : 1-3
+ * Automate Test Server : 1-3
+ * Production Server : 1-3
 * Addition Storage : [DigitalOcean](https://www.digitalocean.com/?refcode=6dcfcc2a3392) $0.10/GB per month
 
 ### Free public, paid for private
