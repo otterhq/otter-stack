@@ -21,6 +21,7 @@ TODO
 * [docker](https://www.docker.com/pricing#/pricing_cloud)
 * [snyk](https://snyk.io/pricing)
 * [greenkeeper](https://greenkeeper.io/#pricing)
+* [CircleCI](https://circleci.com/pricing/#build-linux)
 
 ### Limit use
 * [slack](https://slack.com/pricing) : Free if less than 5GB
