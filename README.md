@@ -25,4 +25,5 @@
 
 ### Limit use
 * [slack](https://slack.com/pricing) : Free if less than 5GB
-* [mailgun](https://www.mailgun.com/pricing) : Free for 10,000 email/month
+* [mailgun](https://www.mailgun.com/pricing) : Free for send 10,000 emails/month
+* [waffle](https://waffle.io/pricing) : Free for public/private, Paid for enterpise.
