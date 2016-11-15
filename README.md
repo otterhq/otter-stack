@@ -1,5 +1,5 @@
 # Otter
-Otter is just ordinary otters. He love to read a book and laugh out lound while floating around. He put a leaf on his head because he think that maybe it'll help him replicate himself like ninja.:leaves:
+Otter is just ordinary otters. He love to read a book and laugh out loud while floating around. He put a leaf on his head because he think that maybe it'll help him replicate himself like ninja.:leaves:
 
 ## Stack
 [![](https://github.com/otterhq/otter-stack/blob/master/img/otter-stack-v1.3.0.png)](https://github.com/otterhq/otter-stack/raw/master/img/otter-stack-v1.3.0.png)
